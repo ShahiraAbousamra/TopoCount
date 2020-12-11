@@ -6,11 +6,18 @@ TopoCount addresses the problem of crowd localization. Due to various challenges
 We define a persistence loss based on the theory of persistent homology. The loss compares the topographic landscape of the likelihood map and the topology of the ground truth. 
 
 
-Our method, TopoCount, achieves SOTA localization performance on multiple public benchmarks: ShanghaiTech, UCF QNRF, JHU++, and NWPU. It also has the potential to improve the performance in the crowd counting task.
+Our method, TopoCount, achieves SOTA localization performance on multiple public benchmarks: ShanghaiTech, UCF QNRF, JHU++, and NWPU. It also has the potential to improve the performance in the crowd counting task.  
 
-![](images/sample_1.jpg)
-![](images/sample_2.jpg)
-![](images/arch_new6.jpg)
+<br/>
+
+<p align="center"> 
+<img src="images/sample_2.jpg" alt="drawing" width="100%"  />
+</p>
+
+<p align="center"> 
+<img src="images/arch_new6.jpg" alt="drawing" width="60%"  />
+</p>
+
 
 ### 1. Requirements ###
 This implementation requires the following libraries. It was tested with the specified library versions:
