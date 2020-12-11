@@ -8,7 +8,7 @@ We define a persistence loss based on the theory of persistent homology. The los
 
 Our method, TopoCount, achieves SOTA localization performance on multiple public benchmarks: ShanghaiTech, UCF QNRF, JHU++, and NWPU. It also has the potential to improve the performance in the crowd counting task.
 
-
+![](images/sample_1.jpg)
 
 ### 1. Requirements ###
 This implementation requires the following libraries. It was tested with the specified library versions:
@@ -94,8 +94,7 @@ d) "*4d\_eval\_game_from\_saved\_predictions.py*":
     author      =  {Shahira Abousamra and Minh Hoai Nguyen and Dimitris Samaras and Chao Chen},
     title       =  {Localization in the Crowd with Topological  Constraints},
     booktitle   =  {AAAI Conference on Artificial Intelligence (AAAI)},
-    year        =  {2021}
-}
+    year        =  {2021}}
 
 
 
